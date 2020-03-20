@@ -1,6 +1,5 @@
 import React from "react";
-
-import { FaTwitter} from "react-icons/fa";
+import { FaTwitter } from "react-icons/fa";
 import { IconContext } from "react-icons";
 
 const Bare = () => {
